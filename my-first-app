@@ -1,0 +1,3 @@
+export class Appcomponent {
+title = "my first angular app"
+}
